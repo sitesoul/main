@@ -12,7 +12,7 @@
 3. Implement the design in your project!
 
 ### 🎨 Get the Figma Design
-👉[👉 Visit Our Figma Workspace](https://www.figma.com/@sitesoul).
+👉[Visit Our Figma Workspace](https://www.figma.com/@sitesoul).
 
 # # # 🤝 Contribute
 If you have ideas or want to contribute new hero sections, feel free to fork the repository and submit a pull request!  
