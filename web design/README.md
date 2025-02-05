@@ -17,3 +17,4 @@
 # # # 🤝 Contribute
 If you have ideas or want to contribute new hero sections, feel free to fork the repository and submit a pull request!  
 
+### 📩 **Have a question?** Contact us or open an issue [click here!](https://sitesoul1.wixsite.com/sitesoul)  
