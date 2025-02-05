@@ -2,7 +2,7 @@
  🚀 Welcome to the **Desktop Applications section** of SiteSoul! Here, you'll find well-structured and fully functional desktop applications, complete with images and source code provided in PDF format.
 
 ## 🔹 Available Projects
-### 🎓 Erasmus Student Management System
+###  🎓 Erasmus Student Management System
 A C# Windows Forms application designed to help the International Relations Department manage Erasmus students efficiently.
 
 ###📌 Features:
