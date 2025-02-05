@@ -8,7 +8,7 @@
 Explore our projects, contribute, and stay updated with the latest developments. Feel free to fork, star ⭐, or raise an issue if you have suggestions!
 ### 📩 **Have a question?** Contact us or open an issue [click here!](https://sitesoul1.wixsite.com/sitesoul)  
 # 📂 Desktop Application
-For our desktop applications, we provide PDF documents containing:
+For our desktop applications, we provide PDF documents containing:  
 ✅ Detailed images for better understanding.
 ✅ Source code snippets to help you implement features easily.
 
