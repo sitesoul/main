@@ -4,6 +4,9 @@
   - Web Design – Modern, user-friendly, and responsive designs.
   - Web Development – Full-stack solutions, from front-end to back-end.
   - Desktop Applications – Powerful and efficient software for various platforms.
+## 💡 Get Started
+Explore our projects, contribute, and stay updated with the latest developments. Feel free to fork, star ⭐, or raise an issue if you have suggestions!
+📩**Have a question?** Contact us or open an issue.
 # Desktop Application
 # Web Design
 # Web Developpement
