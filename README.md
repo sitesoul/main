@@ -6,7 +6,7 @@
   - Desktop Applications – Powerful and efficient software for various platforms.
 ## 💡 Get Started
 Explore our projects, contribute, and stay updated with the latest developments. Feel free to fork, star ⭐, or raise an issue if you have suggestions!
-📩**Have a question?** Contact us or open an issue.
+📩 **Have a question?** Contact us or open an issue.
 # Desktop Application
 # Web Design
 # Web Developpement
