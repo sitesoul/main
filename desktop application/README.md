@@ -17,9 +17,6 @@ A **C# Windows Forms** application designed to help the **International Relation
 - **C#** with **Visual Studio**
 - **MySQL** database with **phpMyAdmin**
 - **Guna UI framework** for enhanced UI
-  
-### 📄 Resources:
-🔗 Erasmus Student Management System PDF
 #
 
 ### 🎵 Audio Player System
@@ -31,15 +28,12 @@ A simple yet functional **C# Windows Forms** application that allows users to pl
 - Track navigation (next/previous)
 - Volume control
 - Displays album artwork
-- 
+
 ### 🛠 Technologies Used:
 
 - **C# Windows Forms**
 - **Windows Media Player API**
 - **TagLib** for metadata handling
-  
-### 📄 Resources:
-🔗 Audio Player System PDF
 #
 
 ## 📂 How to Use
