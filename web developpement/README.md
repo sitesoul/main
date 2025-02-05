@@ -19,8 +19,6 @@ A **web-based ASP.NET** application designed to manage **employee payroll and ac
 - **SQL Server** for database management  
 - **HTML/CSS** for frontend design  
 
-#### 📄 Resources:  
-📥 [Download Accounting and Payroll Management System PDF](./itp(final%20proje%207).pdf)  
 
 ---
 
@@ -38,8 +36,6 @@ A dynamic **ASP.NET web application** that facilitates **car buying and leasing 
 - **SQL Server** for storing car listings and orders  
 - **HTML, CSS, JavaScript** for frontend design  
 
-#### 📄 Resources:  
-📥 *(PDF link to be added when uploaded)*  
 
 ---
 
@@ -56,9 +52,7 @@ A similar **ASP.NET-based e-commerce platform**, but tailored for selling **elec
 - **ASP.NET** with **C#**  
 - **SQL Server** for managing product data  
 - **HTML, CSS, JavaScript** for frontend design  
-
-#### 📄 Resources:  
-📥 *(PDF link to be added when uploaded)*  
+ 
 
 ---
 
@@ -67,5 +61,5 @@ A similar **ASP.NET-based e-commerce platform**, but tailored for selling **elec
 2. Set up **Visual Studio** and configure the required dependencies.  
 3. Follow the installation and setup instructions in the PDFs to deploy and test the applications.  
 
-📩 **Have a question?** Open an issue or contact us.  
+### 📩 **Have a question?** Contact us or open an issue [click here!](https://sitesoul1.wixsite.com/sitesoul)  
 
