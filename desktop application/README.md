@@ -41,4 +41,4 @@ A simple yet functional **C# Windows Forms** application that allows users to pl
 2. Set up **Visual Studio** and required dependencies.
 3. Follow the instructions in the PDFs to run or modify the applications.
    
-📩 **Have a question?** Open an issue or contact us.
+### 📩 **Have a question?** Contact us or open an issue [click here!](https://sitesoul1.wixsite.com/sitesoul)  
